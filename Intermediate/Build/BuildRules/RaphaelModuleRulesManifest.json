@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Dev\\Raphael\\Source\\Raphael\\Raphael.Build.cs",
+		"D:\\Dev\\Raphael\\Source\\Raphael.Target.cs",
+		"D:\\Dev\\Raphael\\Source\\RaphaelEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

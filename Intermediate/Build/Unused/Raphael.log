@@ -1,0 +1,24 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\Dev\Raphael).
+  Creating makefile for RaphaelEditor (no existing makefile)
+  Deleted hot-reload file: D:\Dev\Raphael\Binaries\Win64\UE4Editor-Raphael-9907.dll
+  Deleted hot-reload file: D:\Dev\Raphael\Binaries\Win64\UE4Editor-Raphael-9907.pdb
+  Deleted hot-reload file: D:\Dev\Raphael\Intermediate\Build\Win64\UE4Editor\Development\Raphael\UE4Editor-Raphael-9907.lib
+  Building RaphaelEditor...
+  Using Visual Studio 2022 14.33.31630 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 11 actions with 20 processes...
+    [1/11] Default.rc2
+    [2/11] SharedPCH.Engine.ShadowErrors.cpp
+    Detected compiler newer than Visual Studio 2019, please update min version checking in WindowsPlatformCompilerSetup.h
+    [3/11] Raphael.cpp
+    [4/11] RaphaelCharacter.gen.cpp
+    [5/11] Raphael.init.gen.cpp
+    [6/11] RaphaelGameMode.cpp
+    [7/11] RaphaelGameMode.gen.cpp
+    [8/11] RaphaelCharacter.cpp
+    [9/11] UE4Editor-Raphael.lib
+       Creating library D:\Dev\Raphael\Intermediate\Build\Win64\UE4Editor\Development\Raphael\UE4Editor-Raphael.lib and object D:\Dev\Raphael\Intermediate\Build\Win64\UE4Editor\Development\Raphael\UE4Editor-Raphael.exp
+    [10/11] UE4Editor-Raphael.dll
+       Creating library D:\Dev\Raphael\Intermediate\Build\Win64\UE4Editor\Development\Raphael\UE4Editor-Raphael.suppressed.lib and object D:\Dev\Raphael\Intermediate\Build\Win64\UE4Editor\Development\Raphael\UE4Editor-Raphael.suppressed.exp
+    [11/11] RaphaelEditor.target
+  Total time in Parallel executor: 23.90 seconds
+  Total execution time: 25.68 seconds
