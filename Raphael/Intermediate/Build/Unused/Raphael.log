@@ -1,0 +1,26 @@
+﻿  Cleaning RaphaelEditor and UnrealHeaderTool binaries...
+  Using 'git status' to determine working set for adaptive non-unity build (D:\Dev\2022f-team3).
+  Creating makefile for RaphaelEditor (no existing makefile)
+  Parsing headers for RaphaelEditor
+    Running UnrealHeaderTool "D:\Dev\2022f-team3\Raphael\Raphael.uproject" "D:\Dev\2022f-team3\Raphael\Intermediate\Build\Win64\RaphaelEditor\Development\RaphaelEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\zepto\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for RaphaelEditor in 3.2185535 seconds
+  Building RaphaelEditor...
+  Using Visual Studio 2022 14.33.31630 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 11 actions with 20 processes...
+    [1/11] Default.rc2
+    [2/11] SharedPCH.Engine.ShadowErrors.cpp
+    Detected compiler newer than Visual Studio 2019, please update min version checking in WindowsPlatformCompilerSetup.h
+    [3/11] Raphael.cpp
+    [4/11] Raphael.init.gen.cpp
+    [5/11] RaphaelGameMode.cpp
+    [6/11] RaphaelGameMode.gen.cpp
+    [7/11] RaphaelCharacter.gen.cpp
+    [8/11] RaphaelCharacter.cpp
+    [9/11] UE4Editor-Raphael.lib
+       Creating library D:\Dev\2022f-team3\Raphael\Intermediate\Build\Win64\UE4Editor\Development\Raphael\UE4Editor-Raphael.lib and object D:\Dev\2022f-team3\Raphael\Intermediate\Build\Win64\UE4Editor\Development\Raphael\UE4Editor-Raphael.exp
+    [10/11] UE4Editor-Raphael.dll
+       Creating library D:\Dev\2022f-team3\Raphael\Intermediate\Build\Win64\UE4Editor\Development\Raphael\UE4Editor-Raphael.suppressed.lib and object D:\Dev\2022f-team3\Raphael\Intermediate\Build\Win64\UE4Editor\Development\Raphael\UE4Editor-Raphael.suppressed.exp
+    [11/11] RaphaelEditor.target
+  Total time in Parallel executor: 30.76 seconds
+  Total execution time: 35.87 seconds

@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Raphael.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{87EAFFF5-5AEA-424B-AAC8-586BFDAE6583}</UniqueIdentifier>
+      <UniqueIdentifier>{1B6A62D2-D6F4-4969-9669-7A33F33AF34C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Raphael.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{282DB385-F646-4E7D-AEC9-EF6371E446C6}</UniqueIdentifier>
+      <UniqueIdentifier>{C641A70F-E5C0-4D78-BF5F-B5061886274A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Raphael">
-      <UniqueIdentifier>{1170DC11-7A81-4F28-8EFC-027190579241}</UniqueIdentifier>
+      <UniqueIdentifier>{4D0C26C2-BE87-4FEF-8F51-B31541F50DFE}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Raphael\Raphael.Build.cs">
       <Filter>Source\Raphael</Filter>
