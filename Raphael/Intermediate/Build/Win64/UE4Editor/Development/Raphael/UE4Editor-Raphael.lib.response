@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Raphael.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Dev\2022f-team3\Raphael\Intermediate\Build\Win64\RaphaelEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Dev\2022f-team3\Raphael\Intermediate\Build\Win64\UE4Editor\Development\Raphael\Raphael.cpp.obj"
+"D:\Dev\2022f-team3\Raphael\Intermediate\Build\Win64\UE4Editor\Development\Raphael\RaphaelCharacter.cpp.obj"
+"D:\Dev\2022f-team3\Raphael\Intermediate\Build\Win64\UE4Editor\Development\Raphael\RaphaelGameMode.cpp.obj"
+"D:\Dev\2022f-team3\Raphael\Intermediate\Build\Win64\UE4Editor\Development\Raphael\Raphael.init.gen.cpp.obj"
+"D:\Dev\2022f-team3\Raphael\Intermediate\Build\Win64\UE4Editor\Development\Raphael\RaphaelCharacter.gen.cpp.obj"
+"D:\Dev\2022f-team3\Raphael\Intermediate\Build\Win64\UE4Editor\Development\Raphael\RaphaelGameMode.gen.cpp.obj"
+"D:\Dev\2022f-team3\Raphael\Intermediate\Build\Win64\UE4Editor\Development\Raphael\Default.rc2.res"
+/OUT:"D:\Dev\2022f-team3\Raphael\Intermediate\Build\Win64\UE4Editor\Development\Raphael\UE4Editor-Raphael.lib"
