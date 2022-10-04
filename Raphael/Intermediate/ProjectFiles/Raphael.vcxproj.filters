@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Raphael.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{87EAFFF5-5AEA-424B-AAC8-586BFDAE6583}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Raphael.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RaphaelEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{282DB385-F646-4E7D-AEC9-EF6371E446C6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Raphael">
+      <UniqueIdentifier>{1170DC11-7A81-4F28-8EFC-027190579241}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Raphael\Raphael.Build.cs">
+      <Filter>Source\Raphael</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Raphael\Raphael.cpp">
+      <Filter>Source\Raphael</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Raphael\Raphael.h">
+      <Filter>Source\Raphael</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Raphael\RaphaelCharacter.cpp">
+      <Filter>Source\Raphael</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Raphael\RaphaelCharacter.h">
+      <Filter>Source\Raphael</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Raphael\RaphaelGameMode.cpp">
+      <Filter>Source\Raphael</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Raphael\RaphaelGameMode.h">
+      <Filter>Source\Raphael</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
