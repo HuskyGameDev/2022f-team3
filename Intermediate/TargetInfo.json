@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Raphael",
+			"Path": "D:\\Dev\\Raphael\\Source\\Raphael.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RaphaelEditor",
+			"Path": "D:\\Dev\\Raphael\\Source\\RaphaelEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
