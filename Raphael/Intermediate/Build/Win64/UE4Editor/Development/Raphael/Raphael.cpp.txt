@@ -1,2 +1,0 @@
-D:\Dev\2022f-team3\Raphael\Intermediate\Build\Win64\UE4Editor\Development\Raphael\Definitions.Raphael.h
-D:\Dev\2022f-team3\Raphael\Source\Raphael\Raphael.h
